@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">FirebaseTestApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Login Fragment Strings -->
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Sign in with your e-mail or phone number</string>
+
+    <string name="login_tab_email">E-mail</string>
+    <string name="login_tab_phone">Phone</string>
+
+    <string name="login_hint_email">E-mail</string>
+    <string name="login_hint_phone">50 123 45 67</string>
+    <string name="login_hint_password">Password</string>
+
+    <string name="login_forgot_password">Forgot password?</string>
+    <string name="login_action">Log in</string>
+    <string name="login_no_account">Don\'t have an account?</string>
+    <string name="login_register">Register</string>
+
+    <string name="login_error_email_empty">Enter your e-mail</string>
+    <string name="login_error_email_invalid">Enter a valid e-mail</string>
+    <string name="login_error_phone_empty">Enter your phone number</string>
+    <string name="login_error_phone_invalid">Enter a valid phone number</string>
+    <string name="login_error_password_empty">Enter your password</string>
+    <string name="login_error_password_short">Password must be at least %1$d characters</string>
+
+    <string name="register_title">Create account</string>
+    <string name="register_subtitle">Sign up with your e-mail or phone number</string>
+
+    <string name="register_tab_email">E-mail</string>
+    <string name="register_tab_phone">Phone</string>
+
+    <string name="register_hint_name">Full name</string>
+    <string name="register_hint_email">E-mail</string>
+    <string name="register_hint_phone">50 123 45 67</string>
+    <string name="register_hint_password">Password</string>
+    <string name="register_hint_confirm_password">Confirm password</string>
+    <string name="register_password_helper">At least 6 characters</string>
+    <string name="register_terms">I agree to the Terms of Use and Privacy Policy</string>
+
+    <string name="register_action">Create account</string>
+    <string name="register_have_account">Already have an account?</string>
+    <string name="register_login">Log in</string>
+
+    <string name="register_error_name_empty">Enter your name</string>
+    <string name="register_error_name_short">Name is too short</string>
+    <string name="register_error_email_empty">Enter your e-mail</string>
+    <string name="register_error_email_invalid">Enter a valid e-mail</string>
+    <string name="register_error_phone_empty">Enter your phone number</string>
+    <string name="register_error_phone_invalid">Enter a valid phone number</string>
+    <string name="register_error_password_empty">Enter a password</string>
+    <string name="register_error_password_short">Password must be at least %1$d characters</string>
+    <string name="register_error_confirm_empty">Confirm your password</string>
+    <string name="register_error_password_mismatch">Passwords don\'t match</string>
+    <string name="register_error_terms">Please accept the terms to continue</string>
+
+    <string name="register_success">Account created. Check your e-mail to verify it.</string>
+    <string name="register_phone_soon">Phone sign-up is not available yet</string>
+    <string name="register_error_email_in_use">This e-mail is already registered</string>
+    <string name="register_error_weak_password">Password is too weak</string>
+    <string name="register_error_network">No internet connection</string>
+    <string name="register_error_generic">Something went wrong. Please try again.</string>
+
+    <string name="otp_title">Verify your number</string>
+    <string name="otp_subtitle">We sent a 6-digit code to %1$s</string>
+
+    <string name="otp_action_verify">Verify</string>
+    <string name="otp_action_resend">Resend code</string>
+    <string name="otp_action_resend_in">Resend code (%1$d:%2$02d)</string>
+    <string name="otp_change_number">Change number</string>
+
+    <string name="otp_code_sent">Code sent</string>
+    <string name="otp_error_empty">Enter the code</string>
+    <string name="otp_error_length">The code is 6 digits</string>
+    <string name="otp_error_invalid_code">Wrong or expired code</string>
+    <string name="otp_error_not_sent_yet">Still sending the code, please wait</string>
+    <string name="otp_error_too_many_requests">Too many attempts. Try again later.</string>
+
+    <string name="login_action_send_code">Send code</string>
+    <string name="login_error_invalid_credentials">Wrong e-mail or password</string>
+    <string name="login_error_email_not_verified">Please verify your e-mail first</string>
+    <string name="login_error_too_many_requests">Too many attempts. Try again later.</string>
+    <string name="login_error_network">No internet connection</string>
+    <string name="login_error_generic">Something went wrong. Please try again.</string>
+    <string name="login_reset_sent">Password reset link sent to your e-mail</string>
+    <string name="login_reset_needs_email">Enter your e-mail first</string>
+</resources>
